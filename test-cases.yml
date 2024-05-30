@@ -376,7 +376,7 @@
     - Открываем вкладку Tournaments
     - Нажимаем «Tournaments Info»
     - Вводим название «Test tournament»
-    - Выбираем параметры: individual,token
+    - Выбираем параметры individual
   expected-result: |
     Турнир создан, его можно просмотреть на вкладке турниров
     
@@ -392,7 +392,7 @@
     - Открываем вкладку Tournaments
     - Нажимаем «Tournaments Info»
     - Вводим название «Test tournament»
-    - Выбираем параметры: versus
+    - Выбираем параметры versus
     - Заходим под user 2
     - Открываем вкладку Tournaments
     - Находим «Test tournament»
